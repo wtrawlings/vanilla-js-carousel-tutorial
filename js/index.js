@@ -1,0 +1,1 @@
+// make some Javascript- this will help understand components
